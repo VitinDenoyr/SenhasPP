@@ -1,0 +1,10 @@
+C:\Users\puloo\Desktop\Programar\Projects\Senhas++\x64\Release\Senhas++.vcxproj.AssemblyReference.cache
+C:\Users\puloo\Desktop\Programar\Projects\Senhas++\x64\Release\Senhas++.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\puloo\Desktop\Programar\Projects\Senhas++\x64\Release\Senhas.mainform.resources
+C:\Users\puloo\Desktop\Programar\Projects\Senhas++\x64\Release\Senhas++.vcxproj.GenerateResource.cache
+C:\Users\puloo\Desktop\Programar\Projects\Senhas++\x64\Release\Senhas++.exe
+C:\Users\puloo\Desktop\Programar\Projects\Senhas++\Source\x64\Release\Senhas++.vcxproj.AssemblyReference.cache
+C:\Users\puloo\Desktop\Programar\Projects\Senhas++\Source\x64\Release\Senhas++.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\puloo\Desktop\Programar\Projects\Senhas++\Source\x64\Release\Senhas.mainform.resources
+C:\Users\puloo\Desktop\Programar\Projects\Senhas++\Source\x64\Release\Senhas++.vcxproj.GenerateResource.cache
+C:\Users\puloo\Desktop\Programar\Projects\Senhas++\Source\x64\Release\Senhas++.exe

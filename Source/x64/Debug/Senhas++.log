@@ -1,0 +1,5 @@
+﻿  mainform.cpp
+C:\Users\puloo\Desktop\Programar\Projects\Senhas++\Source\mainform.h(559,1): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\puloo\Desktop\Programar\Projects\Senhas++\Source\mainform.cpp(5,1): warning C4829: Parâmetros possivelmente incorretos para função main. Considere o uso de 'int main(Platform::Array<Platform::String^>^ argv)'
+  mainform.obj : Módulo MSIL encontrado; vínculo incremental está desabilitado para MSIL; executando link completo
+  Senhas++.vcxproj -> C:\Users\puloo\Desktop\Programar\Projects\Senhas++\Source\x64\Debug\Senhas++.exe
